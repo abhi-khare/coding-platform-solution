@@ -1,2 +1,2 @@
 # ProjectEuler
-Project Euler solution in python 3.5.3
+solutions to project Euler problem set in python and Go
